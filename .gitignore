@@ -129,23 +129,23 @@ dmypy.json
 .pyre/
 
 
-data/resized64/train/NORMAL/
-data/resized64/train/PNEUMONIA/
-data/resized64/test/NORMAL/
-data/resized64/test/PNEUMONIA/
-data/resized64/val/NORMAL/
-data/resized64/val/PNEUMONIA/
+data/resized64/train/NORMAL
+data/resized64/train/PNEUMONIA
+data/resized64/test/NORMAL
+data/resized64/test/PNEUMONIA
+data/resized64/val/NORMAL
+data/resized64/val/PNEUMONIA
 
-data/resized128/train/NORMAL/
-data/resized128/train/PNEUMONIA/
-data/resized128/test/NORMAL/
-data/resized128/test/PNEUMONIA/
-data/resized128/val/NORMAL/
-data/resized128/val/PNEUMONIA/
+data/resized128/train/NORMAL
+data/resized128/train/PNEUMONIA
+data/resized128/test/NORMAL
+data/resized128/test/PNEUMONIA
+data/resized128/val/NORMAL
+data/resized128/val/PNEUMONIA
 
-data/resized512/train/NORMAL/
-data/resized512/train/PNEUMONIA/
-data/resized512/test/NORMAL/
-data/resized512/test/PNEUMONIA/
-data/resized512/val/NORMAL/
-data/resized512/val/PNEUMONIA/
+data/resized512/train/NORMAL
+data/resized512/train/PNEUMONIA
+data/resized512/test/NORMAL
+data/resized512/test/PNEUMONIA
+data/resized512/val/NORMAL
+data/resized512/val/PNEUMONIA
