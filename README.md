@@ -102,7 +102,7 @@ Alternatively, if the model is deployed as a webapp, customers who send in x-ray
 
 ## For More Information
 
-Review the [Jupyter Notebook](./pneumonia-image-classification.ipynb) or our [presentation](./pneumonia-image-classification_ProjectPresentation.pdf).
+Review the [Jupyter Notebook](./pneumonia-image-classification.ipynb) or the [presentation](./pneumonia-image-classification_ProjectPresentation.pdf).
 
 For any additional questions, please contact **Kai Uechi (kaiuechi@gmail.com)**
 
